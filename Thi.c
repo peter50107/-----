@@ -2,7 +2,7 @@
 int main()
 {
 	int a,b,c;
-	printf("½Ð¿é¤J") ;
+	printf("Â½ÃÂ¿Ã©Â¤J") ;
 	scanf("%d",&a);
 	for(c=a;c>0;c--)
 	{
@@ -13,9 +13,9 @@ int main()
 	}
 	if(b>2 || b==1 || b==0)
 	{
-		printf("¤£¬O½è¼Æ");
+		printf("Â¤Â£Â¬OÂ½Ã¨Â¼Ã†");
 	}else
 	{
-		printf("¬O½è¼Æ");
-	}
+		printf("Â¬OÂ½Ã¨Â¼Ã†");
+	}\\\66666
 }
